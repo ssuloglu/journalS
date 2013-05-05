@@ -90,7 +90,7 @@
             <dt>How</dt>
             <dd>With lists of only <a href = "http://fef.metu.edu.tr/en/node/167">natural sciences journals</a>, <a href = "https://developers.google.com/appengine/">gae</a>, <a href = "http://bottlepy.org/docs/dev/">bottle</a>, and <a href = "http://twitter.github.io/bootstrap/">bootstrap </a>.</dd>
             <dt>What</dt>
-            <dd>A search tool. Just select subjects and search. That's it! You can download the resulting list as excel file.</dd>
+            <dd>A search tool. Just select subjects and search. That's it! </dd>
         </dl>
          
         <div class = "row">
