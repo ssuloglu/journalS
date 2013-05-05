@@ -140,7 +140,9 @@
     <hr>
      <footer>
          <div class="container">
-        <p class="muted credit">&copy; Selma Suloglu 2013</p>
+        <p> <span class="muted credit">&copy; Selma Suloglu 2013 </span>
+            <a href="https://github.com/ssuloglu/journalS">Git Repository </a>
+        </p>
         </div>
       </footer>
 
