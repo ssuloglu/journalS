@@ -1,4 +1,5 @@
-The application is to search a list of natural science journals which are resided in two separate excel files. 
+The application is to search a list of natural science journals published by Middle East Technical University 
+A nad B indexed lists are resided in two separate excel files (SCI-A-Tipi-Dergilerin-Listesi, SCI-B-Tipi-Dergilerin-Listesi). 
 
 Bootle web framework is used for template handling.
 Bootstrap CSS framework for front users.
